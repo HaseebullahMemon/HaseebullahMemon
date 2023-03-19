@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Haseebullah Memon.</h2>
 
@@ -41,9 +40,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/haseebullah-memon-666a4321b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Haseebullah%Memon-blue?style=flat-square&logo=linkedin"></a>
-
 <a href="mailto:haseebullahMemon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-HaseebullahMemon?style=flat-square&logo=gmail"></a>
 </p>
 
