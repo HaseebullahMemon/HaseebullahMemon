@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science  at Ned university karachi.
 - 💼 &nbsp; Working as a Associate Software Engineer at ChaynzTech karachi  .
-- 🌱 &nbsp; Expertise in React, Node, Express ,MongoDb ,Nestjs NextJs MySql Postgres
+- 🌱 &nbsp; Expertise in React,React Native ,Node, Express ,MongoDb ,Nestjs NextJs MySql Postgres
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
