@@ -39,7 +39,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="right">
+<p align="lift">
 <a href="mailto:haseebullahMemon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-HaseebullahMemon?style=flat-square&logo=gmail"></a>
 </p>
 
