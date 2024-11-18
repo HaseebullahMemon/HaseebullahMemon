@@ -4,8 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science  at Ned university karachi.
-- 💼 &nbsp; Working as a Associate Software Engineer at ChaynzTech karachi  .
+- 💼 &nbsp; Co-Founder at Bitkoders | Senior Full Stack Developer | MERN | React Native | AWS | DevOps
 - 🌱 &nbsp; Expertise in React,React Native ,Node, Express ,MongoDb ,Nestjs NextJs MySql Postgres
 
 
